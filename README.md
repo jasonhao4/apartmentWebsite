@@ -1,6 +1,5 @@
 # apartmentWebsite1.0
 
-https://jasonhao4.github.io/apartmentWebsite/
 
 Originally I didn't have any ideas on what to make a website for to practice what I've learned so far. 
 Then it hit me when my roommate asked me what are we doing for our apartment.
